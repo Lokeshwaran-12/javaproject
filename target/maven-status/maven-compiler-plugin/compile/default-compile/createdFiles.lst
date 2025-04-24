@@ -1,0 +1,13 @@
+com\sentiment\model\Feedback.class
+com\sentiment\view\SentimentDashboardView.class
+com\sentiment\model\DatabaseManager.class
+com\sentiment\util\DatabaseInitializer.class
+com\sentiment\model\SentimentResult.class
+com\sentiment\util\TextAnalysisUtil.class
+com\sentiment\controller\SentimentAnalyzer.class
+com\sentiment\SentimentAnalysisApp.class
+com\sentiment\view\FeedbackFormView.class
+com\sentiment\controller\FeedbackController.class
+com\sentiment\view\MainView.class
+com\sentiment\controller\AuthController.class
+com\sentiment\util\DatabaseUtil.class
